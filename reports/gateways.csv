@@ -1,0 +1,54 @@
+id,name,category,category_name,stars,license,stack,pricing,region,file
+1,Hyperswitch,A,Payment Orchestrators,12500,Apache-2.0,"Rust, Postgres, Kafka",Free OSS (Infra ~$200/mo),Global,reports/gateways/individual/hyperswitch.md
+2,Hyperswitch Prism,A,Payment Orchestrators,,Apache-2.0,Rust,Free OSS (Infra ~$20/mo),Global,reports/gateways/individual/hyperswitch-prism.md
+3,OwnPay,A,Payment Orchestrators,200,MIT,"Go, SQLite",Free OSS (Infra ~$5/mo),Global,reports/gateways/individual/ownpay.md
+4,PipraPay,A,Payment Orchestrators,50,GPL-3.0,PHP / Laravel,Free OSS ($0 extra infra),Global,reports/gateways/individual/piprapay.md
+5,BTCPay Server,B,Self-Hosted Crypto,6500,MIT,"C# / .NET, Docker",0% fees (Infra ~$20/mo),Global,reports/gateways/individual/btcpay-server.md
+6,Bitcart,B,Self-Hosted Crypto,500,MIT,Python / Vue,0% fees (Infra ~$15/mo),Global,reports/gateways/individual/bitcart.md
+7,SHKeeper,B,Self-Hosted Crypto,150,MIT,"Python, Docker",0% fees (Infra ~$15/mo),Global,reports/gateways/individual/shkeeper.md
+8,CryptoPayServer,B,Self-Hosted Crypto,100,MIT,Go,0% fees (Infra ~$5/mo),Global,reports/gateways/individual/cryptopayserver.md
+9,Globee OSS,B,Self-Hosted Crypto,80,MIT,PHP / Laravel,0% fees (Shared infra),Global,reports/gateways/individual/globee.md
+10,Kill Bill,C,Billing & Subscriptions,4500,Apache-2.0,Java / OSGi,Free OSS (Infra ~$250/mo),Global,reports/gateways/individual/kill-bill.md
+11,Lago,C,Billing & Subscriptions,7500,AGPL-3.0,Ruby / Go / React,Free OSS / Cloud $250/mo,Global,reports/gateways/individual/lago.md
+12,OpenMeter,C,Billing & Subscriptions,1200,Apache-2.0,Go / Kafka / ClickHouse,Free OSS (Infra ~$100/mo),Global,reports/gateways/individual/openmeter.md
+13,FOSSBilling,C,Billing & Subscriptions,800,Apache-2.0,"PHP 8.x, MySQL",Free OSS (Infra ~$10/mo),Global,reports/gateways/individual/fossbilling.md
+14,Invoice Ninja,C,Billing & Subscriptions,8500,Elastic 2.0 / AAL,PHP / Laravel / Flutter,Free OSS / $30/yr white-label,Global,reports/gateways/individual/invoice-ninja.md
+15,Crater,C,Billing & Subscriptions,7800,AGPL-3.0,PHP / Laravel / Vue,Free OSS (Infra ~$15/mo),Global,reports/gateways/individual/crater.md
+16,SolidInvoice,C,Billing & Subscriptions,600,MIT,PHP / Symfony,Free OSS (Infra ~$15/mo),Global,reports/gateways/individual/solidinvoice.md
+17,Omnipay,D,SDK Libraries,5900,MIT,PHP (PSR-7/18),Free OSS ($0 infra),Global,reports/gateways/individual/omnipay.md
+18,Payum,D,SDK Libraries,1800,MIT,PHP / Symfony,Free OSS ($0 infra),Global,reports/gateways/individual/payum.md
+19,shetabit/multipay,D,SDK Libraries,1200,MIT,PHP / Laravel,Free OSS ($0 infra),Middle East / Global,reports/gateways/individual/shetabit-multipay.md
+20,Active Merchant,D,SDK Libraries,4700,MIT,Ruby,Free OSS ($0 infra),Global (Shopify),reports/gateways/individual/active-merchant.md
+21,Gringotts,D,SDK Libraries,500,MIT,Elixir / OTP,Free OSS ($0 infra),Global,reports/gateways/individual/gringotts.md
+22,go-payment,D,SDK Libraries,200,MIT,Go,Free OSS ($0 infra),Southeast Asia,reports/gateways/individual/go-payment.md
+23,Midtrans SDK,D,SDK Libraries,400,MIT,PHP / Multi,Free SDK (Standard PSP fees),Indonesia,reports/gateways/individual/midtrans-sdk.md
+24,PayPal SDK,D,SDK Libraries,600,Apache-2.0,PHP / Multi,Free SDK (Standard PSP fees),Global,reports/gateways/individual/paypal-sdk.md
+25,Saleor,E,E-Commerce Platforms,21000,BSD-3-Clause,Python / GraphQL / React,Free OSS (Infra ~$150/mo),Global,reports/gateways/individual/saleor.md
+26,Medusa,E,E-Commerce Platforms,27000,MIT,Node / TypeScript,Free OSS (Infra ~$50/mo),Global,reports/gateways/individual/medusa.md
+27,Bagisto,E,E-Commerce Platforms,16000,MIT,PHP / Laravel / Vue,Free OSS (Infra ~$30/mo),Global / SEA,reports/gateways/individual/bagisto.md
+28,Solidus,E,E-Commerce Platforms,5000,BSD-3-Clause,Ruby on Rails,Free OSS (Infra ~$60/mo),Global,reports/gateways/individual/solidus.md
+29,Spree Commerce,E,E-Commerce Platforms,13000,BSD-3-Clause,Ruby on Rails,Free OSS (Infra ~$60/mo),Global,reports/gateways/individual/spree.md
+30,WooCommerce,E,E-Commerce Platforms,9500,GPL-2.0,PHP / WordPress,Free OSS (Plugins vary),Global,reports/gateways/individual/woocommerce.md
+31,Aimeos,E,E-Commerce Platforms,4000,LGPL-3.0,PHP / Laravel,Free OSS (Shared infra),Global,reports/gateways/individual/aimeos.md
+32,Sylius,E,E-Commerce Platforms,8000,MIT,PHP / Symfony,Free OSS / Commercial Plus,Europe / Global,reports/gateways/individual/sylius.md
+33,PrestaShop,E,E-Commerce Platforms,8000,OSL-3.0,PHP / Symfony,Free OSS (Modules vary),Europe / Global,reports/gateways/individual/prestashop.md
+34,Moov,F,Banking & Ledgers,900,Apache-2.0,Go / Cloud-Native,Free OSS / Cloud SaaS,United States (ACH/Fed),reports/gateways/individual/moov.md
+35,Apache Fineract,F,Banking & Ledgers,1300,Apache-2.0,Java / Spring Boot,Free OSS (Infra ~$250/mo),Global,reports/gateways/individual/apache-fineract.md
+36,TigerBeetle,F,Banking & Ledgers,10000,Apache-2.0,Zig / Native Binary,Free OSS (Infra ~$50/mo),Global,reports/gateways/individual/tigerbeetle.md
+37,Formance Ledger,F,Banking & Ledgers,600,MIT,Go / Postgres,Free OSS / Cloud SaaS,Global,reports/gateways/individual/formance-ledger.md
+38,Blnk,F,Banking & Ledgers,500,Apache-2.0,Go / Postgres,Free OSS (Infra ~$30/mo),Africa / Emerging,reports/gateways/individual/blnk.md
+39,jPOS,F,Banking & Ledgers,600,AGPL-3.0,Java (ISO 8583),Free AGPL / Commercial,Global (ATM/Card),reports/gateways/individual/jpos.md
+40,Mojaloop,F,Banking & Ledgers,500,Apache-2.0,Node / Kubernetes,"Free OSS (Infra ~$1,000/mo)",National Switches,reports/gateways/individual/mojaloop.md
+41,Hatchet Ledger,F,Banking & Ledgers,100,MIT,TypeScript / Postgres,Free OSS (Shared DB),Global,reports/gateways/individual/hatchet-ledger.md
+42,Stripe,G,Commercial Free-Tier,,Proprietary,Cloud / API,2.9% + $0.30,Global (46+ countries),reports/gateways/individual/stripe.md
+43,PayPal,G,Commercial Free-Tier,,Proprietary,Cloud / API,2.99% + $0.49,Global (200+ markets),reports/gateways/individual/paypal.md
+44,Square,G,Commercial Free-Tier,,Proprietary,Cloud / POS Hardware,2.6%–2.9% + fix,"US, CA, UK, AU, JP",reports/gateways/individual/square.md
+45,Razorpay,G,Commercial Free-Tier,,Proprietary,Cloud / API,2.0% + GST,India / Malaysia,reports/gateways/individual/razorpay.md
+46,Midtrans,G,Commercial Free-Tier,,Proprietary,Cloud / API,2.9% + Rp 2k / VA Rp 4k,Indonesia,reports/gateways/individual/midtrans.md
+47,Xendit,G,Commercial Free-Tier,,Proprietary,Cloud / API,2.9% + Rp 2k / VA Rp 4.5k,"Southeast Asia (ID, PH)",reports/gateways/individual/xendit.md
+48,Adyen,G,Commercial Free-Tier,,Proprietary,Direct Acquiring,Interchange++ (€0.11 + scheme),Global (Enterprise),reports/gateways/individual/adyen.md
+49,Mollie,G,Commercial Free-Tier,,Proprietary,Cloud / API,1.8% + €0.25 (EU),Europe (EEA / UK),reports/gateways/individual/mollie.md
+50,Paystack,G,Commercial Free-Tier,,Proprietary,Cloud / API,1.5% + ₦100 (capped),"Africa (NG, GH, ZA, KE)",reports/gateways/individual/paystack.md
+51,Flutterwave,G,Commercial Free-Tier,,Proprietary,Cloud / API,1.4% local / 3.8% intl,Pan-Africa (34 countries),reports/gateways/individual/flutterwave.md
+52,TripPay,G,Commercial Free-Tier,,Proprietary,Aggregator / API,"Rp 750–4,250 VA / 0.7% QRIS",Indonesia (Active in App),reports/gateways/individual/tripay.md
+53,DOKU,G,Commercial Free-Tier,,Proprietary,Direct Acquirer / API,2.5%–3.0% / VA Rp 3.5k–5k,Indonesia (Active in App),reports/gateways/individual/doku.md
